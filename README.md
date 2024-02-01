@@ -1,2 +1,2 @@
 # UofTHacks
-Github repo for UofT Hacks
+A web app built in react. Upload an image, and the website will return a spotify playlist for the image.
